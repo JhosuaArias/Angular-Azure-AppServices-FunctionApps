@@ -22,4 +22,5 @@ On here you can find diverse topics, such as:
 -	To configure a build pipeline and a release pipeline for the Angular project.
 -	To bind the DevOps project with a Linux Web App.
 
-* This is not meant to be used on real solutions or on production. Just for learning purposes.
+# Disclaimer
+This is not meant to be used on real solutions or on production. Just for learning purposes.
